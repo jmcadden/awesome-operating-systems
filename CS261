@@ -1,0 +1,38 @@
+Corbató: An Experimental Time-Sharing System
+Dijkstra: The Structure of the "THE" Multiprogramming System
+Kilburn: One Level Storage System
+Daley: Virtual Memory, Processes, and Sharing in MULTICS
+Bensoussan: The Multics Virtual Memory System: Concepts and Design
+Rashid: From RIG to Accent to Mach: The Evolution of a Network Operating System
+Leidtke: On micro-kernel Construction
+Baumann: The Multikernel: A New OS Architecture for Scalable Multicore Systems
+Meyer: A virtal machine time-sharing system
+Bugnion: Disco: running commodity operating systems on scalable multiprocessors
+Microkernels Meet Recursive Virtual Machines
+Waldspurger: Memory Resource Management in VMware ESX Server
+Reimplementing the Cedar File System Using Logging and Group Commit
+Rosenblum: The Design and Implementation of a Log-Structured File System
+Sandberg: Design and Implementation of the Sun Network Filesystem
+Howard: Scale and Performance in a Distributed File System
+Min: SFS: Random Write Considered Harmful in Solid State Drives
+Rumble: Log-structured Memory for DRAM-based Storage
+Schroeder: Experience with Grapevine: The Growth of a Distributed System
+Anderson: Serverless Network File Systems
+Stoica: Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
+Rowstrom: Storage management and caching in PAST
+Ghemewat: The Google File System
+Mickens: Blizzard: Fast, Cloud-scale Block Storage for Cloud-oblivious Applications
+Dean: MapReduce: Simplified Data Processing on Large Clusters
+Baumann: Shielding Applications from an Untrusted Cloud with Haven
+Herlihy: Transactional Memory: Architectural Support for Lock-Free Data Structure
+Damron: Hybrid Transactional Memory
+Clements: The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors
+Mateev: Matveev: Read-Log-Update: A Lightweight Synchronization Mechanism for Concurrent Programming
+A Study of Modern Linux API Usage and Compatibility: What to Support When You're Supporting
+The Linux Scheduler: a Decade of Wasted Cores
+Rinard: Enhancing Server Availability and Security Through Failure-Oblivious Computing
+Qin: Rx: Treating Bugs as Software Allergies -- A Safe way to Survive Software Failures
+Engler: Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code
+Wang: Towards Optimization-Safe Systems: Analyzing the Impact of Undefined Behavior
+Zeldovich: Making Information Flow Explicit in HiStar
+Tice: Enforcing Forward-Edge Control-Flow Integrity in GCC and LLVM
